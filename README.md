@@ -40,4 +40,3 @@ DATABASE_URL=
 ```
 python main.py
 ```
-4. 
